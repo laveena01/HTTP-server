@@ -24,7 +24,7 @@ It progressively implements key web server features — parsing HTTP requests, h
 
 ---
 
-## 🚀 Running the Server
+##  Running the Server
 
 ### **1. Prerequisites**
 
@@ -46,7 +46,7 @@ This tells the server to read/write files from `/tmp/`.
 
 ---
 
-## 💻 Example Usage
+##  Example Usage
 
 ### ➤ Root request
 
